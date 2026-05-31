@@ -41,7 +41,7 @@ class Model:
                 self.ricorsione(parziale, a1, tratte)
                 parziale.pop()
 
-
+#o
     def getScore(self, parziale):
         #somma pesi archi
         somma = 0
